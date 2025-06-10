@@ -27,4 +27,4 @@ It simplifies hospital management by providing features for admins, doctors, and
 - Edit personal information
 
 -for backend mysql
-====================================================================>Thankyou<=============================================================================================
+==============================================>Thankyou<==============================================
